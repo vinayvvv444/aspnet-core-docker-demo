@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Application\\aspnet-core-dotnet-core",
+    "\\Application\\aspnet-core-dotnet-core.FunctionalTests"
   ],
   "PreviewInSolutionExplorer": false
 }
